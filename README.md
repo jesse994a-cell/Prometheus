@@ -585,44 +585,7 @@ ansible-playbook playbooks/health_check.yml
 
 ---
 
-## 🤝 貢獻指南
-
-歡迎貢獻改進此項目！
-
-### 貢獻方式
-
-1. **報告問題**
-   ```bash
-   # 提交 Issue 時包含：
-   - 問題描述
-   - 復現步驟
-   - 期望結果 vs 實際結果
-   - 環境信息
-   ```
-
-2. **提交改進**
-   ```bash
-   git checkout -b feature/your-improvement
-   # 進行修改
-   git commit -m "描述你的改進"
-   git push origin feature/your-improvement
-   # 提交 Pull Request
-   ```
-
-3. **完善文檔**
-   - 修正錯誤
-   - 補充示例
-   - 翻譯其他語言
-
----
-
 ## 📞 獲取幫助
-
-### 內部支援
-
-- **技術顧問**：聯繫 DevOps 組長
-- **學習小組**：加入釘釘/Slack 技術頻道
-- **Code Review**：提交 PR 獲得反饋
 
 ### 外部資源
 
